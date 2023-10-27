@@ -1,0 +1,14 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1619px" height="241px">
+<path fill-rule="evenodd" class="cls-2"  stroke="rgb(215, 215, 215)" stroke-width="4px" stroke-dasharray="16, 8" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M19.000,189.999 C211.919,75.017 376.298,33.755 498.969,92.999 C569.586,127.105 617.366,225.258 704.000,231.999 C823.699,241.313 878.792,85.612 1003.937,86.999 C1111.434,88.192 1152.599,199.587 1259.000,217.000 C1375.123,236.003 1501.083,151.498 1630.000,-0.000 "/>
+<path fill-rule="evenodd"  fill="rgb(229, 70, 70)"
+ d="M25.000,164.000 C38.807,164.000 50.000,175.193 50.000,189.000 C50.000,202.807 38.807,214.000 25.000,214.000 C11.193,214.000 -0.000,202.807 -0.000,189.000 C-0.000,175.193 11.193,164.000 25.000,164.000 Z"/>
+ <style>
+.cls-2{-webkit-animation:animate1 15s infinite linear;animation:animate1 15s infinite linear}@keyframes animate1{from{stroke-dashoffset:1000}}@-moz-keyframes animate1{from{stroke-dashoffset:1000}}@-webkit-keyframes animate1{from{stroke-dashoffset:1000}}
+</style>
+</svg>
+
+

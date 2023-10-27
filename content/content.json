@@ -1,0 +1,660 @@
+{
+	"header": {
+		"mobile_logo": "assets/img/footer_logo",
+		"mobile_logo_link": "/",
+		"menu": [{
+				"text": "Home",
+				"link": "/",
+				"logo": "",
+				"logo_link": ""
+			},
+			{
+				"text": "What We Do",
+				"link": "/about",
+				"logo": "",
+				"logo_link": ""
+			},
+			{
+				"text": "Services",
+				"link": "/services",
+				"logo": "",
+				"logo_link": ""
+			},
+			{
+				"text": "",
+				"link": "",
+				"logo": "assets/img/logo_icon",
+				"logo_link": "/"
+			},
+			{
+				"text": "Plans",
+				"link": "/plan",
+				"logo": "",
+				"logo_link": ""
+			},
+			{
+				"text": "Blogs",
+				"link": "/news-n-blog",
+				"logo": "",
+				"logo_link": ""
+			},
+			{
+				"text": "Contact",
+				"link": "/contact",
+				"logo": "",
+				"logo_link": ""
+			}
+		],
+
+		"solution_feilds":{
+				"title": "We’ve Got a Solution <span class='g_secondary'> For You</span>",
+				"description": "We are LISTENING! Let’s Talk.",
+				"fields":[
+					{ "class":"col-lg-4 col-md-12", "name":"name",  "placeholder" : "Enter Name", "type":"text" , "value":"" },
+					{ "class":"col-lg-5 col-md-12", "name":"email", "placeholder" : "Enter Email", "type":"email" , "value":"" }	
+				]
+		},
+
+		"contact_fields":[
+				{  "name":"contact_name",  "placeholder" : "Enter Name", "type":"text" , "value":"" },
+				{  "name":"contact_Mobile_No",  "placeholder" : "Enter Mobile No", "type":"text" , "value":"" },
+				{  "name":"contact_email", "placeholder" : "Enter Email", "type":"email" , "value":"" },
+				{  "name":"contact_message",  "placeholder" : "The maximum 140 characters allowed in the message box", "type":"textarea" , "value":"" }
+		]
+	},
+
+
+	"homepage": {
+		"main_section": {
+			"title": "<span>Growth-X</span> Digital Marketing Solutions",
+			"btn_text": "Contact Us Now",
+			"btn_link": "/contact"
+		},
+		"what_we_do": {
+			"steps": [{
+					"icon": "fas fa-rocket",
+					"title": "Boost Your <br /> Businesss Sales",
+					"div_class": "wwd_red",
+					"color_class": "circle_red"
+				},
+				{
+					"icon": "fas fa-chart-pie",
+					"title": "Competitive <br /> Edge to market",
+					"div_class": "wwd_yellow",
+					"color_class": "circle_yellow"
+				},
+				{
+					"icon": "fas fa-file-image",
+					"title": "Social Media <br /> Marketing",
+					"div_class": "wwd_green",
+					"color_class": "circle_green"
+				},
+				{
+					"icon": "fab fa-searchengin",
+					"title": "SEO <br /> Services",
+					"div_class": "wwd_blue",
+					"color_class": "circle_blue"
+				}
+			],
+
+			"title": "What We <span className='g_secondary'>Do",
+			"description": "Growth-X is a digital ecosystem fostering under its parent company Prism IT Systems https://www.prismitsystems.com/ . Prism IT systems is a web-development company based in Surat, Gujarat; working on a full-throttle since 2009.",
+			"service_title": "Growth-X offers a comprehensive array of Digital Marketing services like:",
+			"service_steps": [
+				"Google Analytics",
+				"Search Engine Optimization (SEO)",
+				"Social Media Marketing (SMM)",
+				"Social Media Analytics",
+				"Content Creating",
+				"Social Media Optimization (SMO)",
+				"Search Engine Marketing (SEM)",
+				"Branding of small to big businesses"
+			],
+			"othor_services": "Besides, Growth-X also offers digital services like designing brochures, logos, brand artworks, product artworks, and marketing banners of all types of businesses."
+		},
+		"business_section": {
+			"title": "Make Your Business More<br /> <span className='g_secondary'>Competitive and Sustainable</span>",
+			"list": [
+				"Digital Marketing contributes about 150 billion US dollars to the global economy. The Digital Marketing market size valued at 305 billion USD in 2020, shall escalate up-to 807 billion USD till 2026, with a growing CAGR of 17.6%. Companies tend to spend billions of dollars on Social Media Advertising annually.",
+				"Globally, about 3.96 billion people use social media; where India show-cases about 376 million social media users. The global e-commerce retail rate peaked up-to 4.28 trillion USD in the year 2020; with more than 2 billion digital purchases of goods & services from all over the world.",
+				"The average e-commerce expenditure per person, per visit was noted to be 3 USD in the year 2020, with customer conversion rate of 2.17%. With 1.7 billion websites registered by the year 2020, the online marketing is gaining traction.</li>",
+				"Growth-X visions that every business, despite of its size, must acquire a brand value. Let’s partner our skill sets; you give us ideas, and we as per our promise, shall transform your ideas into a colorful spectrum of business insights, taking your company at new heights of success and popularity."
+			],
+			"business_image": "assets/img/campaing"
+		},
+
+		"services": {
+			"title": "Our Featured <span class='g_secondary'> Services </span>",
+			"description": "Growth-X is your digital partner, and together we can explore all the facets of digital marketing, outranking the competitors in the competitive edge marketing. Growth-X offers a wide range of Digital Marketing services like:",
+			"service_list1": [{
+					"title": "Google Analytics",
+					"description": "Growth-X is a digital partner of Google, and our marketing professionals are Google Analytics Certified. We build new Google Analytics Account, or set-up an already existing account; thereby analyzing all the aspects of business metrics.",
+					"icon": "fas fa-chart-pie fa-2x",
+					"div_class": "circle_red"
+				},
+				{
+					"title": "Social Media Analytics",
+					"description": "We utilize Social Media Analytics to gather, measure, and standardize the data from various social media platforms like Facebook, Instagram, twitter, LinkedIn, YouTube, and others; with an objective to make business decisions and quantify company’s growth",
+					"icon": "fas fa-chart-line fa-2x",
+					"div_class": "circle_green"
+				},
+				{
+					"title": "SEO Marketing",
+					"description": "We know SEO! Growth-X acquires an asset of exceptionally tech-savvy professionals who are pro at SEO. We optimize your website and webpages in such a manner, that it can fetch more organic traffic from various search engines.",
+					"icon": "fab fa-searchengin fa-2x",
+					"div_class": "circle_teal"
+				}
+			],
+			"center_img": "assets/img/logo_icon",
+			"service_list2": [{
+					"title": "Content Creating",
+					"description": "Content is the heart of any website, blog, or web-page. Be it entertainment, commercial, corporate, educational, or name any other industry that exists; the only way to attract new customers and generate good leads is through the power of words.",
+					"icon": "fas fa-layer-group fa-2x",
+					"div_class": "circle_yellow"
+				},
+				{
+					"title": "Social Media Marketing",
+					"description": "With the evolution of digital era the use of social media marketing has gained momentum. It escalates the revenue of any business, be it small or big. Strong presence on social media is the only way to reinforce the foundation of any business.",
+					"icon": "fas fa-file-image fa-2x",
+					"div_class": "circle_blue"
+				},
+				{
+					"title": "24/7 Hours Support",
+					"description": "Growth-X is a digital hub that believes in providing 360 degrees digital marketing services, with an intact support system that works 24/7. Our close-knit expert team is what we are proud about. Choose Growth-X, you won’t regret.",
+					"icon": "fas fa-headset fa-2x",
+					"div_class": "circle_purple"
+				}
+			]
+		},
+
+		"experience": {
+			"title": "Funfacts For <span class='g_secondary'> Experiences</span>",
+			"description": "Let us grow together. Empower your business with Growth-X!",
+			"list": [{
+					"title": "Happy ClientsComplite Project",
+					"color_class": "circle_red",
+					"value": "120"
+				},
+				{
+					"title": "Complite Project",
+					"color_class": "circle_yellow",
+					"value": "1000"
+				},
+				{
+					"title": "Positive Reviews",
+					"color_class": "circle_green",
+					"value": "580"
+				},
+				{
+					"title": "Expert Member",
+					"color_class": "circle_blue",
+					"value": "20"
+				}
+			]
+		},
+
+		"pricing": {
+			"title": "Our Pricing <span class='g_secondary'>Plans</span>",
+			"description": "Feasibility enhances visibility. Growth-X offers reasonable plans and packages to hike the success rate of your business.",
+			"tab_list": [{
+					"class": "bg-basic",
+					"value": "1 Network"
+				},
+				{
+					"class": "bg-standard",
+					"value": "2 Network"
+				},
+				{
+					"class": "bg-premium",
+					"value": "3 Network"
+				},
+				{
+					"class": "bg-customized",
+					"value": "4 Network"
+				},
+				{
+					"class": "bg-purple",
+					"value": "5 Network"
+				}
+			],
+			"table_data": {
+				"head": [{
+						"class": "hide",
+						"value": ""
+					},
+					{
+						"class": "bg-basic",
+						"value": "1 Network"
+					},
+					{
+						"class": "bg-standard",
+						"value": "2 Network"
+					},
+					{
+						"class": "bg-premium default",
+						"value": "3 Network"
+					},
+					{
+						"class": "bg-customized",
+						"value": "4 Network"
+					},
+					{
+						"class": "bg-purple",
+						"value": "5 Network"
+					}
+				],
+				"plan_title_bar": [{
+						"class": "",
+						"value": "Per Month"
+					},
+					{
+						"class": "plan_title",
+						"value": "$500"
+					},
+					{
+						"class": "plan_title",
+						"value": "$700"
+					},
+					{
+						"class": "plan_title",
+						"value": "$900"
+					},
+					{
+						"class": "plan_title",
+						"value": "$1100"
+					},
+					{
+						"class": "plan_title",
+						"value": "$1300"
+					}
+				],
+				"row_data1": [{
+						"class": "",
+						"value": "Advertising campaigns"
+					},
+					{
+						"class": "text",
+						"value": "2"
+					},
+					{
+						"class": "text",
+						"value": "3"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "5"
+					},
+					{
+						"class": "text",
+						"value": "Up to 6"
+					}
+				],
+				"row_data2": [{
+						"class": "",
+						"value": "Unique ads"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "6"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					},
+					{
+						"class": "text",
+						"value": "Up to 12"
+					}
+				],
+				"row_data3": [{
+						"class": "",
+						"value": "custom advertising image<br /> (WebFX design team)"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "2"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					}
+				],
+				"row_data4": [{
+						"class": "",
+						"value": "monthly advertising targeting and copy tweaks"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "6"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					},
+					{
+						"class": "text",
+						"value": "Up to 12"
+					}
+				],
+				"row_data5": [{
+						"class": "",
+						"value": "social media remarketing campaign and ad"
+					},
+					{
+						"class": "text",
+						"value": ""
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					}
+				],
+				"row_data6": [{
+						"class": "",
+						"value": "Demographic targeting"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					}
+				],
+				"row_data7": [{
+						"class": "",
+						"value": "Keywords, Interest, User Intent Targeting"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					}
+				],
+				"footer": [{
+						"link": "#!",
+						"class": "",
+						"value": ""
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_basic",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_standard",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_premium",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_customized",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_purple",
+						"value": "Buy Now"
+					}
+				]
+			}
+		},
+
+		"social_media": {
+			"description": "Client can choose either of the plaftorm where they think have maximum potential for there business / products / services.",
+			"list": [{
+					"class": "gfb",
+					"icon": "fab fa-facebook-f",
+					"text": "FACEBOOK"
+				},
+				{
+					"class": "gins",
+					"icon": "fab fa-instagram",
+					"text": "INSTAGRAM"
+				},
+				{
+					"class": "gin",
+					"icon": "fab fa-linkedin-in",
+					"text": "LINKEDIN"
+				},
+				{
+					"class": "gpin",
+					"icon": "fab fa-pinterest-p",
+					"text": "PINTEREST"
+				},
+				{
+					"class": "gtwt",
+					"icon": "fab fa-twitter",
+					"text": "TWITTER"
+				},
+				{
+					"class": "gyt",
+					"icon": "fab fa-youtube",
+					"text": "YOUTUBE"
+				}
+			]
+		},
+
+		"explore_buisness": {
+			"title": "Explore Our Business <span class='g_secondary'>Solution</span>",
+			"description": "We drive traffic, but we do not make noise. We deliver substance and not fake promises.",
+			"blog": [{
+					"image": "assets/img/BellyBuzz-06-Growth-X-Square",
+					"content": "Belly Buzz Food App - Digital Marketing"
+				},
+				{
+					"image": "assets/img/Disable-Repeat-Purchase-Square-01",
+					"content": "Woocommerce Disable Repeat Purchase -"
+				},
+				{
+					"image": "assets/img/Multilevel-Referral-Affiliate-02-Growth-X-Square-01",
+					"content": "Multilevel Referral Affiliate Plugin - Strategize the revenue growth with better results of purchase."
+				},
+				{
+					"image": "assets/img/User-Rights-01-Growth-X-Square-01",
+					"content": "User Rights Access Manager Plugin - Improved"
+				}
+			]
+		},
+
+		"client": {
+			"title": "What Clients <span class='g_secondary'>Say</span>",
+			"testimonial": [{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				},
+				{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				}
+			]
+		},
+
+		"contact": {
+			"title": "We’ve Got a Solution <span class='g_secondary'> For You</span>",
+			"description": "We are LISTENING! Let’s Talk."
+		}
+
+	},
+
+
+
+
+	"footer": {
+		"footer_logo": "assets/img/footer_logo",
+		"footer_logo_link": "assets/img/footer_logo",
+		"social_media": {
+			"title": "Follow Us On",
+			"icons": [{
+					"logo": "fab fa-facebook-f",
+					"link": "https://www.facebook.com/growthx.1",
+					"iconclass": "fb"
+				},
+				{
+					"logo": "fab fa-instagram",
+					"link": "http://instagram.com/growthx.1",
+					"iconclass": "insta"
+				},
+				{
+					"logo": "fab fa-twitter",
+					"link": "https://twitter.com/prismitsystems",
+					"iconclass": "twt"
+				},
+				{
+					"logo": "fab fa-pinterest-p",
+					"link": "https://www.pinterest.com/prismitsystems",
+					"iconclass": "pin"
+				}
+			]
+		},
+
+		"menu": {
+			"title": "Menu",
+			"list": [{
+					"text": "About",
+					"link": "/about"
+				},
+				{
+					"text": "Services",
+	 				"link": "/services"
+				},
+				{
+					"text": "Plan",
+					"link": "/plan"
+				},
+				{
+					"text": "Contact",
+					"link": "/contact"
+				}
+			]
+		},
+
+		"quick_links": {
+			"title": "Quick Links",
+			"list": [{
+					"text": "Privacy",
+					"link": "/privacy"
+				},
+				{
+					"text": "Security",
+					"link": "/security"
+				},
+				{
+					"text": "Terms of Service",
+					"link": "/terms"
+				},
+				{
+					"text": "Faq",
+					"link": "/faq"
+				}
+			]
+		},
+
+		"contact": {
+			"title": "Contact Us",
+			"list": [{
+					"icon": "icofont-ui-call",
+					"text": "(+91) 997 444 6844",
+					"type": "tel"
+				},
+				{
+					"icon": "icofont-ui-call",
+					"text": "(+91) 997 444 6844",
+					"type": "tel"
+				},
+				{
+					"icon": "icofont-envelope",
+					"text": "hello@growthx.one",
+					"type": "mailto"
+				}
+			],
+
+			"copyright_text": "Copyright © 2021, All Rights Reserved.",
+			"company_logo": "assets/img/copyright_logo.gif",
+			"company_logo_alt": "www.prismitsystems.com",
+			"company_text": "A Prism I. T. Systems  Enterprise",
+			"company_link": "https://www.prismitsystems.com/"
+		}
+
+
+	}
+}

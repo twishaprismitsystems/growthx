@@ -1,0 +1,96 @@
+{
+	"blogs": {
+		"head_title": "News & Blogs",
+		"head_list": [{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "News & Blogs",
+				"link": ""
+			}
+		],
+
+		"post_list": [{
+				"slug": "blog1",
+				"image": "assets/img/blog/blog1",
+				"date": "February 18, 2020",
+				"author": "By George",
+				"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"comment_count": "3"
+			},
+			{
+				"slug": "blog2",
+				"image": "assets/img/blog/blog2",
+				"date": "February 18, 2020",
+				"author": "By George",
+				"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"comment_count": "3"
+			},
+			{
+				"slug": "blog3",
+				"image": "assets/img/blog/blog3",
+				"date": "February 18, 2020",
+				"author": "By George",
+				"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"comment_count": "3"
+			}
+		],
+
+
+		"categories": [{
+				"icon": "far fa-hand-pointer",
+				"title": "Pay Per Click",
+				"post_count": "3"
+			},
+			{
+				"icon": "fab fa-searchengin",
+				"title": "SEO Marketing",
+				"post_count": "6"
+			},
+			{
+				"icon": "far fa-chart-bar",
+				"title": "Google Analytics",
+				"post_count": "10"
+			},
+			{
+				"icon": "far fa-file-image",
+				"title": "Social media Marketing",
+				"post_count": "12"
+			}
+		],
+
+		"recent_posts": [{
+				"image": "assets/img/blog/recent_post_1.png",
+				"title": "What is Google analytics",
+				"date": "February 11, 2020"
+			},
+			{
+				"image": "assets/img/blog/recent_post_2.png",
+				"title": "What is SEO",
+				"date": "February 11, 2020"
+			},
+			{
+				"image": "assets/img/blog/recent_post_3.png",
+				"title": "What is Digital Marketing",
+				"date": "February 11, 2020"
+			},
+			{
+				"image": "assets/img/blog/recent_post_4.png",
+				"title": "What is Content Writing",
+				"date": "February 11, 2020"
+			}
+		],
+
+
+		"contact": {
+			"image": "assets/img/blog/banner",
+			"title": "We’ve Got a Solution <span class='g_secondary'> For You</span>",
+			"description": "We are LISTENING! Let’s Talk."
+		}
+
+	}
+}

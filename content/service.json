@@ -1,0 +1,159 @@
+{
+	"service": {
+		"head_title": "Services",
+		"head_list": [{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "Services",
+				"link": ""
+			}
+		],
+
+		"main_title": "Why Choose <span class='g_secondary'>Us</span>",
+		"main_description": "",
+		"service_list": [{
+				"div_class": "wwd_red",
+				"icon_class": "circle_red",
+				"icon": "fas fa-tools",
+				"title": "Fast Working<br /> Prosses"
+			},
+			{
+				"div_class": "wwd_yellow",
+				"icon_class": "circle_yellow",
+				"icon": "fas fa-user-cog",
+				"title": "Dedicated <br />Team Member"
+			},
+			{
+				"div_class": "wwd_green",
+				"icon_class": "circle_green",
+				"icon": "fas fa-file-alt",
+				"title": "Reporting <br /> & Analysis"
+			},
+			{
+				"div_class": "wwd_blue",
+				"icon_class": "circle_blue",
+				"icon": "fas fa-cogs",
+				"title": "24/7 <br /> Hours Support"
+			}
+		],
+
+		"featured": {
+			"title": "Our Featured <span class='g_secondary'>Services</span>",
+			"description": "",
+			"steps": [{
+					"image": "assets/img/services/google_analytics",
+					"title": "Google Analytics",
+					"col_class": "left_col",
+					"sub_title": "Why you need Google Analytics Service?",
+					"content": "<br /> If your website or blog is not getting heavy traffic or high rankings, then Google Analytics can assist in:<ol style={ol_style}><li>Tracking the number of visitors hitting the website.</li><li>Tracking geographic location of visitors.</li><li>Reporting which other websites are diverting traffic to your website.</li><li>Analyzing which digital marketing tactic fetches maximum traffic to the website.</li><li>Enumerating the number of Visitors converted to customers.</li><li>Trailing the most popular pages and favorite audience-content.</li> <li>Checking on the website speed, and implementing improvements when required.</li> </ol> <p> <strong>What Growth-X can do for you?</strong> <br /> Growth-X is the digital partner of Google, and our marketing professionals are Google Analytics Certified. We help you build a new Google Analytics Account, or help in properly setting-up an already existing account. Analyzing all aspects of digital marketing, we make sure that your account collects proper data for e-commerce monitoring. We conduct a complete Google Analytics audit, in-order to health-check your Google Analytics account, thereby leaving no room for errors or gaps in the entire process. We make your business a BRAND by building your repo in the digital market. Increased website traffic helps improve sales and generates a hefty profit.</p>"
+				},
+				{
+					"image": "assets/img/services/seo_marketing",
+					"title": "SEO Marketing",
+					"col_class": "right_col",
+					"sub_title": "Why you need SEO?",
+					"content": "<br />If your website or blog is not getting heavy traffic or high rankings, then Google Analytics can assist in:<ol style={ol_style}><li>Want to level-up new business by starting a website.</li><li>Websites or blogs not getting enough traffic; ranks low in google.</li><li>Traffic reduces all of a sudden on existing website.</li><li>Number of customers or leads has drastically decreased over the period of time.</li><li>Everything is perfect but the website or webpage are unable to generate leads.</li><li>The bounce rate on your website is higher.</li></ol><p><strong>What Growth-X can do for you?</strong><br /><ol style={ol_style}><li>Growth-X acquires an asset of exceptionally tech-savvy professionals who are pro at SEO. We optimize your website and webpages in such a manner, that it can fetch more organic traffic from various search engines.</li><li>Keyword: We keep keyword density high and errors low! We conduct a thorough keyword search based on market analysis and growth trends.</li><li>On Page SEO: We customize the On-Page SEO contents by organizing keywords in title tag, meta descriptions, internal linking, alt tags, and others. The value-rich, high quality content drives more traffic on your website, thereby augmenting your online visibility.</li><li>Off Page SEO: Link building is a crucial part in SEO. We build backlinks, run campaigns, and invite guest posts to develop a background for increasing traffic on the website as well as turn the leads to customers.</li><li>Technical SEO: A second’s delay in loading your website can increase the intensity of bounce rate, which in-turn results in losing valuable leads or customers. We can help you here by improving your website performance, check on the website speed, and monitor other aspects resulting to this scenario.</li><li>Local SEO: More than 80% local SEO mobile searches lead to phone call or store visit within a day. Attract the customers located in your periphery and level-up your business.</li><li>eSEO: By offering a 24/7 shopping convenience on your website, we can increase the customer retention rate; thereby boosting-up your e-commerce business</li><li>We hate keyword stuffing, and we keep a thorough watch on the competitors.</li></ol> </p>"
+				},
+				{
+					"image": "assets/img/services/social_marketing",
+					"title": "Social Media Marketing",
+					"col_class": "left_col",
+					"sub_title": "Why you need Social Media Marketing?",
+					"content": "<br />Social Media Marketing helps discover:<ol style={ol_style<li><strong>What</strong> are your social media goals?</li><li><strong>Who</strong> is your target audience?</li><li><strong>Where</strong> you want to target your audience?</li><li><strong>Which</strong> social media platform you want to use?</li><li><strong>What</strong> message you want to convey through social media</li></ol><p><strong>What Growth-X can do for you?</strong><br /><ol style={ol_style}><li>We increase the volume of visits, leads, or prospects on your website; thereby increasing the conversion rates.</li><li>We launch social media campaigns, email campaigns, giveaways, quiz, and such other endorsements to increase brand awareness.</li><li>We increase your brand’s presence on social media to build a strong repo.</li><li>We help you build a loyal fan following on all social media platforms, and target audience using cluster analysis.</li><li>We study the ecosystem of all social media platforms, we analyze response rate from each, and then we promote your brand.</li><li>We track business metrics, and keep a keen watch on competitors.</li><li>We deliver highly enticing and competitive contents, that can easily draw heavy traffic on your website.</li><li>We handle all the social media crisis meticulously and with utter ease.</li></ol></p>"
+				},
+				{
+					"image": "assets/img/services/social_media_analytics",
+					"title": "Social Media Analytics:",
+					"col_class": "right_col",
+					"sub_title": "Why you need Social Media Analytics?",
+					"content": "<br />Social Media Analytics plays a vital role in:<ol style={ol_style}><li>Analyzing market trends.</li><li>Having a better understanding of audience and their interests.</li><li>Leveraging better communication with the audience.</li><li>Customer sentiment mining and behavior analysis.</li><li>Quantifying customer engagement score.</li><li>Keeping watch on the competitors and their strategies.</li><li>Gauging how third-party channels are affecting company’s performance.</li><li>In influencing business revenue and reducing the cost of digital marketing.</li></ol><p><strong>What Growth-X can do for you?</strong><br />Growth-X congregates a team of highly experienced business analysts and measurement specialists, who help track all the business metrics meticulously.<ol style={ol_style}><li>We understand the audience and highly fluctuating growth trends of market.</li><li>We conduct sentiment analysis to track customer service activities.</li><li>We conduct behavior analysis by understanding the behavioral patterns of users, leads, recommenders, as well as prospective users. </li><li>We analyze the best social media platform to engage your audience, and monitor the performance of social media campaigns.</li><li>We uncover the strategies of competitors and its efficacy.</li><li>We build brand reputation, as well as help improvise public opinions about your products and services.</li></ol></p>"
+				},
+				{
+					"image": "assets/img/services/content_creating",
+					"title": "Content Creation",
+					"col_class": "left_col",
+					"sub_title": "Why you need Content Creation?",
+					"content": "<br />Social Media Analytics plays a vital role in:<ol style={ol_style}><li>Content Creation makes the Digital Marketing process cost-effective.</li><li>Highly optimized SEO and SMO rich content can help your website gain traction, hence influencing revenue.</li><li>A website with value-rich content can attract the audience to stay longer; thereby increasing their retention time.</li><li>It helps in developing audience trust, which results in building brand repo.</li><li>SEO rich content can drive more traffic to your website, thereby generating better leads or customers.</li><li>Brand awareness encourages loyal brand fan-base; this helps in building online brand authority.</li></ol><p><strong>What Growth-X can do for you?</strong><br /><ol style={ol_style}><li>We build the reputation of your brand, and set a benchmark by the power of our words.</li><li>We deliver 100% plagiarism free, well-researched content; exclusively tailored for your website.</li><li>We create a highly effective content marketing strategy to entice your audience.</li><li>We raise the content score of your website, with our meticulously crafted SEO rich content.</li><li>We focus on the engagement metrics of your content with the audience.</li><li>We launch Social media and email campaigns to increase brand awareness as well as to augment website traffic.</li><li>We conduct audits to strategize content marketing. This helps in identifying what recipe works for successful content that meets threshold.</li><li>We offer continuous delivery of highly resonating content, thereby boosting-up the conversion rate.</li></ol> </p>"
+				},
+				{
+					"image": "assets/img/services/support",
+					"title": "24/7 Hours Support",
+					"col_class": "right_col",
+					"sub_title": "",
+					"content": "Growth-X is a digital hub that believes in providing 360 degrees digital marketing services, with an intact support system that works 24/7. Our close-knit expert team is what we are proud about. Choose Growth-X, you won’t regret."
+				}
+			]
+		},
+
+
+		"experience": {
+			"title": "Funfacts For <span class='g_secondary'> Experiences</span>",
+			"description": "Let us grow together. Empower your business with Growth-X!",
+			"list": [{
+					"title": "Happy ClientsComplite Project",
+					"color_class": "circle_red",
+					"value": "120"
+				},
+				{
+					"title": "Complite Project",
+					"color_class": "circle_yellow",
+					"value": "1000"
+				},
+				{
+					"title": "Positive Reviews",
+					"color_class": "circle_green",
+					"value": "580"
+				},
+				{
+					"title": "Expert Member",
+					"color_class": "circle_blue",
+					"value": "20"
+				}
+			]
+		},
+
+
+		"client_says": {
+			"title": "What Clients <span class='g_secondary'>Say</span>",
+			"testimonial": [{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				},
+				{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				}
+			]
+		},
+
+		"client": {
+			"title": "Our <span class='g_secondary'>Client</span>",
+			"list": [{
+				"img": "assets/img/services/cl1",
+				"link": "https://www.facebook.com/growthx.1"
+			},
+			{
+				"img": "assets/img/services/cl2",
+				"link": "https://www.facebook.com/growthx.1"
+			},
+			{
+				"img": "assets/img/services/cl3",
+				"link": "https://www.facebook.com/growthx.1"
+			},
+			{
+				"img": "assets/img/services/cl4",
+				"link": "https://www.facebook.com/growthx.1"
+			},
+			{
+				"img": "assets/img/services/cl5",
+				"link": "https://www.facebook.com/growthx.1"
+			}
+		]
+		}
+
+	}
+}

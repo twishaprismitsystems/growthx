@@ -1,0 +1,79 @@
+{
+	"contact": {
+		"head_title": "News & Blogs",
+		"head_list": [{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "News & Blogs",
+				"link": ""
+			}
+		],
+
+		"main_title":"Get In <span class='g_secondary'>Touch</span>",
+
+		"contact_list": [{
+				"div_class": "wwd_red",
+				"icon_class": "circle_red",
+				"icon": "fas fa-image",
+				"title": "Visit Us",
+				"content": "A, B/102 Kathorwala Chambers, Dangor St, Nanpura, Gujarat 395001",
+				"list":[],
+				"link":"https://goo.gl/maps/y7M377ex1r1F3qWs7"
+			},
+			{
+				"div_class": "wwd_yellow",
+				"icon_class": "circle_yellow",
+				"icon": "fab fa-searchengin",
+				"title": "Call Us",
+				"content": "(+91) 997 444 6844",
+				"list":[
+					{ "type":"tel", "text":"(+91) 997 444 6844" },
+					{ "type":"tel", "text":"(+91) 982 526 9515" }
+				],
+				"link":"tel:(+91) 997 444 6844"
+			},
+			{
+				"div_class": "wwd_green",
+				"icon_class": "circle_green",
+				"icon": "fas fa-chart-line",
+				"title": "Mail Us",
+				"content": "hello@growthx.one",
+				"list":[
+					{ "type":"mailto", "text":"hello@growthx.one" },
+					{ "type":"mailto", "text":"info@prismitsystems.com" }
+				],
+				"link":"mailto:hello@growthx.one"
+			}
+		],
+
+		"message":{
+			"image":"assets/img/contact/contact_img",
+			"btn_text":"Send Message"
+		},
+
+		"follow_us":{
+			"title":"Follow Us <span class='g_secondary'>On</span>",
+			"list":[
+				{ "class":"wwd_fb", "circle_class":"circle_fb", "icon":"fab fa-facebook-f", "title":"Facebook", "link":"https://www.facebook.com/growthx.1" },
+				{ "class":"wwd_insta", "circle_class":"circle_insta", "icon":"fab fa-instagram", "title":"Instagram", "link":"http://instagram.com/growthx.1" },
+				{ "class":"wwd_twt", "circle_class":"circle_twt", "icon":"fab fa-twitter", "title":"Twitter", "link":"https://twitter.com/prismitsystems" },
+				{ "class":"wwd_in", "circle_class":"circle_in", "icon":"fab fa-linkedin-in", "title":"Linked In", "link":"https://in.linkedin.com/" }
+			]
+		},
+
+		"meet_on":{
+			"title":"We Are <span class='g_secondary'>Available On</span>",
+			"description":"Let’s get connected. You can find us on",
+			"list":[
+				{ "image":"assets/img/contact/google-meet-icon", "title":"Google Meet" , "link":"mailto:growthx.one@gmail.com" },
+				{ "image":"assets/img/contact/zoom-icon", "title":"Zoom" , "link":"mailto:growthx.one@gmail.com" },
+				{ "image":"assets/img/contact/skype-icon", "title":"Skype" , "link":"mailto:growthx.one@gmail.com" }
+			]
+		},
+
+		"remote_img":"assets/img/contact/remote-team-animate.svg"
+
+	}
+}

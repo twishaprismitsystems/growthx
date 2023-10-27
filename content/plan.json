@@ -1,0 +1,374 @@
+{
+	"plan": {
+		"head_title": "Pricing  Plan",
+		"head_list": [{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "Pricing  Plan",
+				"link": ""
+			}
+		],
+
+		"main_title": "Best Pricing Plan <span class='g_secondary'>For Your Business</span> ",
+		"main_description": "Feasibility enhances visibility. Growth-X offers reasonable plans and packages to hike the success rate of your business.",
+		"plan_list": [{
+				"div_class": "wwd_red",
+				"icon_class": "circle_red",
+				"icon": "fas fa-image",
+				"title": "SMM",
+				"sub_title": "Social Media Marketing"
+			},
+			{
+				"div_class": "wwd_yellow",
+				"icon_class": "circle_yellow",
+				"icon": "fab fa-searchengin",
+				"title": "SEO",
+				"sub_title": "Search Engine Optimization"
+			},
+			{
+				"div_class": "wwd_green",
+				"icon_class": "circle_green",
+				"icon": "fas fa-chart-line",
+				"title": "E.SEO",
+				"sub_title": "Ecommerce SEO"
+			},
+			{
+				"div_class": "wwd_blue",
+				"icon_class": "circle_blue",
+				"icon": "fas fa-hand-pointer",
+				"title": "Customized Plan",
+				"sub_title": "On Demand"
+			}
+		],
+
+		"pricing_table": {
+			"title": "Pricing Plan <span class='g_secondary'>Table</span>",
+			"table_data1": {
+				"tab_list": [{
+						"class": "bg-basic",
+						"value": "1 Network"
+					},
+					{
+						"class": "bg-standard",
+						"value": "2 Network"
+					},
+					{
+						"class": "bg-premium",
+						"value": "3 Network"
+					},
+					{
+						"class": "bg-customized",
+						"value": "4 Network"
+					},
+					{
+						"class": "bg-purple",
+						"value": "5 Network"
+					}
+				],
+				"head": [{
+						"class": "hide",
+						"value": ""
+					},
+					{
+						"class": "bg-basic",
+						"value": "1 Network"
+					},
+					{
+						"class": "bg-standard",
+						"value": "2 Network"
+					},
+					{
+						"class": "bg-premium default",
+						"value": "3 Network"
+					},
+					{
+						"class": "bg-customized",
+						"value": "4 Network"
+					},
+					{
+						"class": "bg-purple",
+						"value": "5 Network"
+					}
+				],
+				"plan_title_bar": [{
+						"class": "",
+						"value": "Per Month"
+					},
+					{
+						"class": "plan_title",
+						"value": "$500"
+					},
+					{
+						"class": "plan_title",
+						"value": "$700"
+					},
+					{
+						"class": "plan_title",
+						"value": "$900"
+					},
+					{
+						"class": "plan_title",
+						"value": "$1100"
+					},
+					{
+						"class": "plan_title",
+						"value": "$1300"
+					}
+				],
+				"row_data1": [{
+						"class": "",
+						"value": "Advertising campaigns"
+					},
+					{
+						"class": "text",
+						"value": "2"
+					},
+					{
+						"class": "text",
+						"value": "3"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "5"
+					},
+					{
+						"class": "text",
+						"value": "Up to 6"
+					}
+				],
+				"row_data2": [{
+						"class": "",
+						"value": "Unique ads"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "6"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					},
+					{
+						"class": "text",
+						"value": "Up to 12"
+					}
+				],
+				"row_data3": [{
+						"class": "",
+						"value": "custom advertising image<br /> (WebFX design team)"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "2"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					}
+				],
+				"row_data4": [{
+						"class": "",
+						"value": "monthly advertising targeting and copy tweaks"
+					},
+					{
+						"class": "text",
+						"value": "4"
+					},
+					{
+						"class": "text",
+						"value": "6"
+					},
+					{
+						"class": "text",
+						"value": "8"
+					},
+					{
+						"class": "text",
+						"value": "10"
+					},
+					{
+						"class": "text",
+						"value": "Up to 12"
+					}
+				],
+				"row_data5": [{
+						"class": "",
+						"value": "social media remarketing campaign and ad"
+					},
+					{
+						"class": "text",
+						"value": ""
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					},
+					{
+						"class": "text",
+						"value": "1"
+					}
+				],
+				"row_data6": [{
+						"class": "",
+						"value": "Demographic targeting"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					}
+				],
+				"row_data7": [{
+						"class": "",
+						"value": "Keywords, Interest, User Intent Targeting"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					},
+					{
+						"class": "tick",
+						"value": "&#10004;"
+					}
+				],
+				"footer": [{
+						"link": "#!",
+						"class": "",
+						"value": ""
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_basic",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_standard",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_premium",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_customized",
+						"value": "Buy Now"
+					},
+					{
+						"link": "#!",
+						"class": "plan_buy_btn for_purple",
+						"value": "Buy Now"
+					}
+				]
+			},
+
+			"when_choose_title": "When choosing a customized plan",
+			"when_choose_description": "From our wide array of digital marketing services, we give you the choice to choose, and make your own bunch of services. We shall customize your plan as per your suitability. We at Growth-X are flexible with our plans, and we keep the options open.",
+			"contact_us_text": "Contact Us",
+			"contact_us_link": "/contact"
+		},
+
+		"client_says": {
+			"title": "What Clients <span class='g_secondary'>Say</span>",
+			"testimonial": [{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				},
+				{
+					"name": "Alexandra  Fonz",
+					"position": "Creative designer",
+					"description": "It was a great experience working with Growth-X and results are far beyond my expectations. The Growth-X team is responsive with problem solving attitude. I was delivered exactly what I asked for, with no fooling around. Now, my small business has an entirely new outlook. Thank you, Growth-X!"
+				}
+			]
+		},
+
+		"client": {
+			"title": "Our <span class='g_secondary'>Client</span>",
+			"list": [{
+					"img": "assets/img/services/cl1",
+					"link": "https://www.facebook.com/growthx.1"
+				},
+				{
+					"img": "assets/img/services/cl2",
+					"link": "https://www.facebook.com/growthx.1"
+				},
+				{
+					"img": "assets/img/services/cl3",
+					"link": "https://www.facebook.com/growthx.1"
+				},
+				{
+					"img": "assets/img/services/cl4",
+					"link": "https://www.facebook.com/growthx.1"
+				},
+				{
+					"img": "assets/img/services/cl5",
+					"link": "https://www.facebook.com/growthx.1"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,161 @@
+{
+	"about": {
+		"head_title": "What We Do",
+		"head_list": [{
+				"text": "Home",
+				"link": "/"
+			},
+			{
+				"text": "Library",
+				"link": ""
+			}
+		],
+
+		"main_title": "About <span class='g_secondary'>Us</span>",
+		"main_description": "Growth-X is a digital marketing agency, offering a comprehensive array of Digital Marketing services like Google Analytics, Social Media Analytics (SMA), Search Engine Optimization (SEO), Social Media Marketing (SMM), Content Creating, Social Media Optimization (SMO), Search Engine Marketing (SEM), Branding of small to big businesses as well as designing brochures, logos, brand artworks, product artworks and marketing banners; thereby broadcasting their ideas lucratively, as well as enticing new prospects with strategized online marketing tactics.",
+		"about_list": [{
+				"div_class": "wwd_red",
+				"icon_class": "circle_red",
+				"icon": "fas fa-chart-bar",
+				"title": "Outstanding & <br /> Trending Strategy"
+			},
+			{
+				"div_class": "wwd_yellow",
+				"icon_class": "circle_yellow",
+				"icon": "fas fa-headphones-alt",
+				"title": "Expert Team & <br /> Quick Support"
+			},
+			{
+				"div_class": "wwd_green",
+				"icon_class": "circle_green",
+				"icon": "fas fa-check-circle",
+				"title": "Fast & Quick<br /> Result Searching"
+			},
+			{
+				"div_class": "wwd_blue",
+				"icon_class": "circle_blue",
+				"icon": "fas fa-thumbs-up",
+				"title": "Quality Service <br /> in Low Cost"
+			}
+		],
+
+		"story": {
+			"image": "assets/img/about/story_img",
+			"title": "Short Story <br /> <span class='g_secondary'>About Us</span>",
+			"content": "Growth-X is a digital ecosystem fostering under its parent company Prism IT Systems <a href='https://www.prismitsystems.com/'>https://www.prismitsystems.com/</a> . Prism IT systems is a web-development company based in Surat, Gujarat; working on a full-throttle since 2009.<br /><br />With more than 12 years of experience, Prism stands by its name in transforming a ray of idea into a colorful spectrum of business development insights.<br /><br />Growth-X aims at achieving excellency beyond parity. Our motto is a generous and relaxed approach; making clients comfortable is our only priority. We boast our punctuality, and optimism; we objectify in bringing order amidst chaos.<br /><br />Empower your business with Growth-X."
+		},
+
+		"mission": {
+			"image": "/assets/img/about/our_vission",
+			"list": [{
+					"title": "Our <span class='g_secondary'>mission</span>",
+					"description": "We at Growth-X believe in focusing on the ‘Big picture.’ Our team of experts pay personalized attention to the clients, thereby fetching result-oriented outcomes. We enhance client-audience relationships, offering our clients a wider perspective to broadcast their messages to the world. We foster our client’s business from incubation, bringing it to a full-blossom."
+				},
+				{
+					"title": "Our <span class='g_secondary'>Vision</span>",
+					"description": "We foresee ourselves as a full-service digital agency growing fully-fledged, to assist brands capitalize on growth. We pledge to exceed our client’s expectations, by providing them result-oriented outcomes and high-quality standards, thereby escalating their business to new levels."
+				}
+			],
+			"contact_btn_text": "Contact Us",
+			"contact_btn_link": "/contact"
+		},
+
+		"working_process": {
+			"title": "Our Working <span class='g_secondary'>Process</span>",
+			"description": "Growth-X congregates an expert team that masters the art of listening. Your stories, queries, confusions, goals, and ambitions; ‘We are all ears!’",
+			"list": [{
+					"circle_class": "circle_red",
+					"image": "assets/img/about/research",
+					"content": "Research & Development"
+				},
+				{
+					"circle_class": "circle_yellow",
+					"image": "assets/img/about/idea",
+					"content": "Find Ideas"
+				},
+				{
+					"circle_class": "circle_green",
+					"image": "assets/img/about/discussion",
+					"content": "Discussion"
+				},
+				{
+					"circle_class": "circle_blue",
+					"image": "assets/img/about/target",
+					"content": "Reach The Target"
+				}
+			],
+			"rocket_image": "assets/img/Groth-x-rocket"
+		},
+
+		"team": {
+			"title": "Our  Experts <span className='g_secondary'>Team</span>",
+			"description": "Growth-X holds a team of exceptionally tech-savvy professionals, with Digital Marketing being their field of expertise.<br /> Our team provides round the clock support to clienteles. Our team includes highly skilled business analysts, marketing specialists, technical architects, web-developers, writers, and testers. We deliver excellence on-time, every time, and on the right channel.",
+			"list": [{
+					"image": "assets/img/about/avatr_1",
+					"name": "James K",
+					"position": "The <br /> Perceptor",
+					"link": "https://www.facebook.com/growthx.1",
+					"social_list": [{
+						"icon": "fab fa-facebook-f fb",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-instagram insta",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-twitter twt",
+						"link": "#!"
+					}]
+				},
+				{
+					"image": "assets/img/about/avatr_2",
+					"name": "Shallom C",
+					"position": "The <br /> Creative Czar",
+					"link": "https://www.facebook.com/growthx.1",
+					"social_list": [{
+						"icon": "fab fa-facebook-f fb",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-instagram insta",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-twitter twt",
+						"link": "#!"
+					}]
+				},
+				{
+					"image": "assets/img/about/avatr_3",
+					"name": "Suzzane J",
+					"position": "Content <br /> Cardinal",
+					"link": "https://www.facebook.com/growthx.1",
+					"social_list": [{
+						"icon": "fab fa-facebook-f fb",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-instagram insta",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-twitter twt",
+						"link": "#!#!"
+					}]
+				},
+				{
+					"image": "assets/img/about/avatr_4",
+					"name": "Nitin P",
+					"position": "Avant Garde <br /> Design Cook",
+					"link": "https://www.facebook.com/growthx.1",
+					"social_list": [{
+						"icon": "fab fa-facebook-f fb",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-instagram insta",
+						"link": "#!"
+					}, {
+						"icon": "fab fa-twitter twt",
+						"link": "#!"
+					}]
+				}
+			]
+		}
+
+	}
+}
